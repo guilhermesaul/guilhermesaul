@@ -6,7 +6,7 @@
 ## ⚡ Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guilhermesaul&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height="175em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesaul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="175em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermesaul&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true" height="175em" />
 </p>
 
 ---
