@@ -6,7 +6,7 @@
 
 🐧 Explorando o Linux Mint quando dá vontade
 
-📚 Atualmente estudando CSS
+📚 Atualmente estudando HTML semântico
 
 ---
 
