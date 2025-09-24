@@ -4,7 +4,7 @@
 
 💡 Com foco em desenvolvimento web, estou aprimorando minhas habilidades em HTML, CSS e JavaScript.
 
-🐧 Explorando o Linux Mint quando dá vontade
+🐧 Me arriscando no Linux Mint
 
 📚 Atualmente estudando Git e Github
 
