@@ -2,7 +2,7 @@
 
 🚀 Estudante do curso Técnico em Informática para Internet no IFRN - Campus Caicó.
 
-💡 Com foco em desenvolvimento web, estou aprimorando minhas habilidades em HTML, CSS e JavaScript.
+💡 Com foco em desenvolvimento web, estou construindo minhas habilidades em HTML, CSS e JavaScript.
 
 🐧 Me arriscando no Linux Mint
 
